@@ -75,4 +75,4 @@ let locale_zh_cn = { // override default English locale to your custom
         'Custom': '自定义',
         'Square': '方形'  
     };
-    export default locale_zh_cn
+    export default {locale_zh_cn}
